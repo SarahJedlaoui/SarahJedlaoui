@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SarahJedlaoui
 - 👀 I’m interested in coding
 - 🌱 I’m currently studyind software engineering 
-- 💞️ 
 - 📫 How to reach me : sarajedlaoui999@gmail.com
 
 <!---

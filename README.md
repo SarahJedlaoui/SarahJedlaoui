@@ -3,7 +3,7 @@
 
 🔭 I’m currently contributing to my personal projects which will be open-sourced soon.
 
-🌱 I’m currently learning DevOps, Computer Vision & Distributed Systems.
+🌱 I’m currently learning DevOps.
 
 <!---
 SarahJedlaoui/SarahJedlaoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
